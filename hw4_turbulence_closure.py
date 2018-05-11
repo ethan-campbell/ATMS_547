@@ -5,7 +5,7 @@
 # University of Washington
 # School of Oceanography
 #
-# Implements first-order turbulence closure for evolution of stably stratified boundary layer.
+# Implements first-order local turbulence closure for evolution of stably stratified boundary layer.
 #
 # Borrows framework from Python script by Emily Ramnarine for dry convective boundary layer (ATM S 547, April 2016).
 
